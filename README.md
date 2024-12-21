@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ebuddy22
+- 🌱 I’m currently learning node
+- 😄 Pronouns:hi/his
